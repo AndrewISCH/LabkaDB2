@@ -1,0 +1,71 @@
+﻿@model IEnumerable<LabkaDB2.Models.Model>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Моделі</h1>
+
+<p>
+    <a asp-action="Create">Створити новий</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ModelName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NumOfSeats)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsAutomatic)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EngineVolume)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HasCooling)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Brand)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Type)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ModelName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NumOfSeats)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsAutomatic)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EngineVolume)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HasCooling)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Brand)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Type)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Редагувати</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Деталі</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Видалити</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

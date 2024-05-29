@@ -1,0 +1,53 @@
+﻿@model IEnumerable<LabkaDB2.Models.CarSharingZone>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Зони каршерінгу</h1>
+
+<p>
+    <a asp-action="Create">Створити</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Town)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CarCapacity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Latitude)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Longtitude)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Town)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CarCapacity)
+            </td>
+            <td>
+                    @String.Format("{0:F8}", Convert.ToDecimal(item.Latitude))
+            </td>
+            <td>
+                    @String.Format("{0:F8}", Convert.ToDecimal(item.Longtitude))
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Редагувати</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Деталі</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Видалити</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

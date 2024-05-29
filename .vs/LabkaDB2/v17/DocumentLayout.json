@@ -1,0 +1,890 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\cars\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\cars\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\customers\\customerswithsameormorecars.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\customers\\customerswithsameormorecars.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\customers\\customerswithsamecars.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\customers\\customerswithsamecars.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\customers\\customerswithallcarsfromzone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\customers\\customerswithallcarsfromzone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\controllers\\carsharingzonescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\controllers\\carsharingzonescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\controllers\\rentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\controllers\\rentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\cars\\carsnotrentedbyuserswhorentedcar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\cars\\carsnotrentedbyuserswhorentedcar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\cars\\carsbyuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\cars\\carsbyuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\cars\\carsbytown.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\cars\\carsbytown.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\cars\\carsbybrand.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\cars\\carsbybrand.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\customers\\customersbytown.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\customers\\customersbytown.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\customers\\customersbyrentedcar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\customers\\customersbyrentedcar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\cars\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\cars\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\cars\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\cars\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\cars\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\cars\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\cars\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\cars\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\models\\rent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\models\\rent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\carsharingzones\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\carsharingzones\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\carsharingzones\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\carsharingzones\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\carsharingzones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\carsharingzones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\carsharingzones\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\carsharingzones\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\carsharingzones\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\carsharingzones\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\rents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\rents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\rents\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\rents\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\rents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\rents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\rents\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\rents\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\models\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\models\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\rents\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\rents\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\models\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\models\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\models\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\models\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\models\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\models\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\models\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\models\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\models\\carsharingzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\models\\carsharingzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\controllers\\modelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\controllers\\modelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|c:\\users\\andre\\source\\repos\\labkadb2\\labkadb2\\carsharingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126D3C3B-FFD8-437C-8F19-F066524C0453}|LabkaDB2\\LabkaDB2.csproj|solutionrelative:labkadb2\\carsharingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Cars\\Index.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\Cars\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Cars\\Index.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\Cars\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T20:27:57.895Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomersWithSameOrMoreCars.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Customers\\CustomersWithSameOrMoreCars.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\Customers\\CustomersWithSameOrMoreCars.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Customers\\CustomersWithSameOrMoreCars.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\Customers\\CustomersWithSameOrMoreCars.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T18:41:26.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "LabkaDB2\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "LabkaDB2\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAqwDoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:21:26.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomersWithSameCars.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Customers\\CustomersWithSameCars.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\Customers\\CustomersWithSameCars.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Customers\\CustomersWithSameCars.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\Customers\\CustomersWithSameCars.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAGcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T16:06:08.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\Customers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\Customers\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T20:12:14.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "LabkaDB2\\Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "LabkaDB2\\Controllers\\CarsController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAqwG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:20:33.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomersWithAllCarsFromZone.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Customers\\CustomersWithAllCarsFromZone.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\Customers\\CustomersWithAllCarsFromZone.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Customers\\CustomersWithAllCarsFromZone.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\Customers\\CustomersWithAllCarsFromZone.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAGUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T16:30:38.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RentsController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Controllers\\RentsController.cs",
+              "RelativeDocumentMoniker": "LabkaDB2\\Controllers\\RentsController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Controllers\\RentsController.cs",
+              "RelativeToolTip": "LabkaDB2\\Controllers\\RentsController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAIA7wHEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:22:34.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T12:16:06.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarsNotRentedByUsersWhoRentedCar.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Cars\\CarsNotRentedByUsersWhoRentedCar.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\Cars\\CarsNotRentedByUsersWhoRentedCar.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Cars\\CarsNotRentedByUsersWhoRentedCar.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\Cars\\CarsNotRentedByUsersWhoRentedCar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T17:38:22.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Rents\\Details.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\Rents\\Details.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Rents\\Details.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\Rents\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T20:39:17.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarSharingZonesController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Controllers\\CarSharingZonesController.cs",
+              "RelativeDocumentMoniker": "LabkaDB2\\Controllers\\CarSharingZonesController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Controllers\\CarSharingZonesController.cs",
+              "RelativeToolTip": "LabkaDB2\\Controllers\\CarSharingZonesController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:21:00.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\CarSharingZones\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\CarSharingZones\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\CarSharingZones\\Edit.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\CarSharingZones\\Edit.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T20:56:53.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\CarSharingZones\\Details.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\CarSharingZones\\Details.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\CarSharingZones\\Details.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\CarSharingZones\\Details.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T21:00:02.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\CarSharingZones\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\CarSharingZones\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\CarSharingZones\\Delete.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\CarSharingZones\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T21:00:04.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Customers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\Customers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Customers\\Edit.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\Customers\\Edit.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAB0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T21:30:39.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Customers\\Details.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\Customers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Customers\\Details.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\Customers\\Details.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T21:34:12.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Customers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\Customers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Customers\\Delete.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\Customers\\Delete.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAADoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T21:35:47.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\Customers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Customers\\Create.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\Customers\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACkAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T21:36:48.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Rents\\Create.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\Rents\\Create.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Rents\\Create.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\Rents\\Create.cshtml",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAIwDIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T20:31:38.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Rents\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\Rents\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Rents\\Delete.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\Rents\\Delete.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T20:30:31.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Rents\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\Rents\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Rents\\Edit.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\Rents\\Edit.cshtml",
+              "ViewState": "AQIAADQAAAAAAAAAAAAIwEwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T19:49:03.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Models\\Details.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\Models\\Details.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Models\\Details.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\Models\\Details.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T18:30:06.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Models\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\Models\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Models\\Delete.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\Models\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T18:28:13.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Models\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\Models\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Models\\Edit.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\Models\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T18:20:04.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Models\\Create.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\Models\\Create.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Models\\Create.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\Models\\Create.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T18:00:56.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LabkaDB2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LabkaDB2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:09:48.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomersByTown.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Customers\\CustomersByTown.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\Customers\\CustomersByTown.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Customers\\CustomersByTown.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\Customers\\CustomersByTown.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAFQAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T14:32:51.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\CarSharingZones\\Create.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\CarSharingZones\\Create.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\CarSharingZones\\Create.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\CarSharingZones\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T13:50:19.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomersByRentedCar.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Customers\\CustomersByRentedCar.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\Customers\\CustomersByRentedCar.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Customers\\CustomersByRentedCar.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\Customers\\CustomersByRentedCar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T13:48:08.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CarsByBrand.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Cars\\CarsByBrand.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\Cars\\CarsByBrand.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Cars\\CarsByBrand.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\Cars\\CarsByBrand.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T13:31:09.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CarsByUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Cars\\CarsByUser.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\Cars\\CarsByUser.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Cars\\CarsByUser.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\Cars\\CarsByUser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T22:44:49.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Cars\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\Cars\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Cars\\Edit.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\Cars\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T21:59:21.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Cars\\Details.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\Cars\\Details.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Cars\\Details.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\Cars\\Details.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T21:59:20.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Cars\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\Cars\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Cars\\Delete.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\Cars\\Delete.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T21:59:19.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Cars\\Create.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\Cars\\Create.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Cars\\Create.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\Cars\\Create.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T21:59:17.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CarsByTown.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Cars\\CarsByTown.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\Cars\\CarsByTown.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Cars\\CarsByTown.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\Cars\\CarsByTown.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T21:56:23.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\CarSharingZones\\Index.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\CarSharingZones\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\CarSharingZones\\Index.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\CarSharingZones\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T20:27:54.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Rents\\Index.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\Rents\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Rents\\Index.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\Rents\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T20:17:06.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Models\\Index.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\Models\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Models\\Index.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\Models\\Index.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAD0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T20:17:00.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T18:37:46.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T18:37:40.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LabkaDB2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LabkaDB2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T18:37:39.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ModelsController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Controllers\\ModelsController.cs",
+              "RelativeDocumentMoniker": "LabkaDB2\\Controllers\\ModelsController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Controllers\\ModelsController.cs",
+              "RelativeToolTip": "LabkaDB2\\Controllers\\ModelsController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:21:55.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "LabkaDB2\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Models\\Car.cs",
+              "RelativeToolTip": "LabkaDB2\\Models\\Car.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:09:59.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Models\\Entity.cs",
+              "RelativeDocumentMoniker": "LabkaDB2\\Models\\Entity.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Models\\Entity.cs",
+              "RelativeToolTip": "LabkaDB2\\Models\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:09:26.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "LabkaDB2\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "LabkaDB2\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:07:10.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Rent.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Models\\Rent.cs",
+              "RelativeDocumentMoniker": "LabkaDB2\\Models\\Rent.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Models\\Rent.cs",
+              "RelativeToolTip": "LabkaDB2\\Models\\Rent.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAzwBgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:06:37.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Models\\Model.cs",
+              "RelativeDocumentMoniker": "LabkaDB2\\Models\\Model.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Models\\Model.cs",
+              "RelativeToolTip": "LabkaDB2\\Models\\Model.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:06:36.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "LabkaDB2\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Models\\Customer.cs",
+              "RelativeToolTip": "LabkaDB2\\Models\\Customer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:06:36.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CarSharingZone.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Models\\CarSharingZone.cs",
+              "RelativeDocumentMoniker": "LabkaDB2\\Models\\CarSharingZone.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Models\\CarSharingZone.cs",
+              "RelativeToolTip": "LabkaDB2\\Models\\CarSharingZone.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:06:36.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CarSharingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\CarSharingDbContext.cs",
+              "RelativeDocumentMoniker": "LabkaDB2\\CarSharingDbContext.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\CarSharingDbContext.cs",
+              "RelativeToolTip": "LabkaDB2\\CarSharingDbContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:06:08.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\appsettings.json",
+              "RelativeDocumentMoniker": "LabkaDB2\\appsettings.json",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\appsettings.json",
+              "RelativeToolTip": "LabkaDB2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-14T16:13:52.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Program.cs",
+              "RelativeDocumentMoniker": "LabkaDB2\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\LabkaDB2\\LabkaDB2\\Program.cs",
+              "RelativeToolTip": "LabkaDB2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:13:51.241Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+﻿@model IEnumerable<LabkaDB2.Models.Car>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Автомобілі</h1>
+
+<p>
+    <a asp-action="Create">Створити</a>
+</p>
+<p>
+    <a asp-action="CarsByTown">Пошук авто за містом</a>
+</p>
+<p>
+    <a asp-action="CarsByUser">Пошук авто за користувачами</a>
+</p>
+<p>
+    <a asp-action="CarsByBrand">Пошук авто за брендом</a>
+</p>
+
+<style>
+    .close {
+        display: none;
+    }
+</style>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsRented)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProduceYear)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TechInspirationDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Color)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Csz)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Model)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody id="car-table">
+@foreach (var item in Model) {
+        <tr id=@item.Id>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsRented)
+            </td>
+            <td>
+                @item.ProduceYear.Year
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TechInspirationDate)
+            </td>
+            <td>
+                <div style="width: 15px; height: 15px; border-radius: 50%; margin-left:10px; border: 1px solid black; background: @item.Color"></div>
+            </td>
+            <td>
+                <a asp-controller="CarSharingZones" asp-action="Details" asp-route-id=@item.Csz.Id>@Html.DisplayFor(modelItem => item.Csz.Town) @Html.DisplayFor(modelItem => item.Csz.Id)</a>
+            </td>
+            <td>
+                <a asp-controller="Models" asp-action="Details" asp-route-id=@item.Model.Id>@Html.DisplayFor(modelItem => item.Model.ModelName)</a>
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Редагувати</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Деталі</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Видалення</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+

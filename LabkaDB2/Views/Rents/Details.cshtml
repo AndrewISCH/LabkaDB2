@@ -1,0 +1,54 @@
+﻿@model LabkaDB2.Models.Rent
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Деталі</h1>
+
+<div>
+    <h4>Оренда</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.StartDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.StartDate)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.FinishDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.FinishDate)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CostPerDay)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CostPerDay)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Car)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Car.Id)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Csz)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Csz.Id)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Cust)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Cust.Id)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Редагувати</a> |
+    <a asp-action="Index">Назад до списку</a>
+</div>

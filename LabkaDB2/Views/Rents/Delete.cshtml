@@ -1,0 +1,57 @@
+﻿@model LabkaDB2.Models.Rent
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Ви впевнені що хочете видалити цей запис?</h3>
+<div>
+    <h4>Оренда</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.StartDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.StartDate)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.FinishDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.FinishDate)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CostPerDay)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CostPerDay)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Car)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Car.Id)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Csz)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Csz.Id)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Cust)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Cust.Id)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Видалити" class="btn btn-danger" /> |
+        <a asp-action="Index">Назад до списку</a>
+    </form>
+</div>

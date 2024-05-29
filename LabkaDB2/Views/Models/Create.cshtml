@@ -1,0 +1,69 @@
+﻿@model LabkaDB2.Models.Model
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Створення</h1>
+
+<h4>Модель</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ModelName" class="control-label"></label>
+                <input asp-for="ModelName" class="form-control" />
+                <span asp-validation-for="ModelName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NumOfSeats" class="control-label"></label>
+                <input type="number" asp-for="NumOfSeats" class="form-control" />
+                <span asp-validation-for="NumOfSeats" class="text-danger"></span>
+            </div>
+            
+                <label class="form-check-label">
+                    @Html.DisplayNameFor(model => model.IsAutomatic)
+                </label>
+                    <select asp-for="IsAutomatic">
+                        <option value="false">Механічна</option>
+                        <option value="true">Автоматична</option>
+                    </select>
+                   
+                
+            
+            <div class="form-group">
+                <label asp-for="EngineVolume" class="control-label"></label>
+                <input type="number" step="0.1" asp-for="EngineVolume" class="form-control" />
+                <span asp-validation-for="EngineVolume" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="HasCooling" /> @Html.DisplayNameFor(model => model.HasCooling)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="Brand" class="control-label"></label>
+                <input asp-for="Brand" class="form-control" />
+                <span asp-validation-for="Brand" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Type" class="control-label"></label>
+                <input asp-for="Type" class="form-control" />
+                <span asp-validation-for="Type" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Створити" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Назад до списку</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
